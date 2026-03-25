@@ -177,7 +177,8 @@ docker compose up -d
 
 ## 👨‍💻 Autor
 
-**Julio**
+**Julio Moura**
+
 Projeto desenvolvido para portfólio de Engenharia de Dados.
 
 ---
